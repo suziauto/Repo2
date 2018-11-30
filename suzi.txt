@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7083-9E71
+
+ Directory of C:\Users\Suzi\Documents\belajar\Project2
+
+30/11/2018  09:08 PM    <DIR>          .
+30/11/2018  09:08 PM    <DIR>          ..
+30/11/2018  08:46 PM               418 hell.class
+30/11/2018  08:41 PM               142 hell.java
+30/11/2018  09:08 PM                 0 suzi.txt
+               3 File(s)            560 bytes
+               2 Dir(s)  404,773,572,608 bytes free
